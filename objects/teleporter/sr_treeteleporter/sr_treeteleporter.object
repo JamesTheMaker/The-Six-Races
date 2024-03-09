@@ -1,11 +1,11 @@
 {
-  "objectName" : "sr_villageteleporter",
+  "objectName" : "sr_treeteleporter",
   "colonyTags" : ["misc"],
   "printable" : false,
   "price" : 3000,
   "rarity" : "Common",
   "description" : "This teleporter should get you back to the Outpost.",
-  "shortdescription" : "Village Teleporter",
+  "shortdescription" : "Tree Teleporter",
 
   "apexDescription" : "A direct link with the Outpost. Neat!",
   "avianDescription" : "A teleporter to take me back to the Outpost.",
@@ -24,7 +24,7 @@
   "inventoryIcon" : "icon.png",
   "orientations" : [
     {
-      "imageLayers" : [ { "image" : "sr_villageteleporter.png:<color>", "fullbright" : true }, { "image" : "sr_villageteleporterlit.png:<color>" } ],
+      "imageLayers" : [ { "image" : "sr_treeteleporter.png:<color>", "fullbright" : true }, { "image" : "sr_treeteleporterlit.png:<color>" } ],
 
       "imagePosition" : [-16, 0],
       "frames" : 1,

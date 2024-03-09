@@ -1,0 +1,22 @@
+{
+  "metadata" : {
+    "name" : "sr_florantree",
+    "species" : "floran",
+    "rules" : [
+    ],
+    "anchor" : [ "sr_florantree" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : true
+  },
+  "parts" : [
+    {
+      "name" : "sr_florantree",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", [ "sr_florantree.json" ] ]
+    }
+  ]
+ }
